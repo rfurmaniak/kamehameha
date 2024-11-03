@@ -1,0 +1,9 @@
+Build/
+Kamehameha/Library/
+Kamehameha/Temp/StagingArea/gradleWarmupArea/.gradle/7.2/executionHistory/executionHistory.lock
+Kamehameha/Temp/
+Kamehameha/Logs/
+Kamehameha/UserSettings/
+Kamehameha/obj/
+Kamehameha/.vs/
+*.csproj
